@@ -1,0 +1,8 @@
+python-dotenv
+flake8
+pypdf
+PyPDF
+pandas
+pysqlite3-binary
+chromadb
+google-generativeai
