@@ -1,6 +1,6 @@
-## Gen AI Primer with Gemini
+# Gen AI Primer with Gemini
 
-#### Local setup steps:
+### Local setup steps:
 
 1. Create an account on [Google Cloud Platform](https://console.cloud.google.com).
 
@@ -52,7 +52,7 @@
     $ python3.11 src/__main__.py
     ```
 
-#### References
+### References
 
 - [Medium article](https://medium.com/@saurabhgssingh/understanding-rag-building-a-rag-system-from-scratch-with-gemini-api-b11ad9fc1bf7) by Saurabh Singh
 - [Google's Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
